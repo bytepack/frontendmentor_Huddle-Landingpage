@@ -4,11 +4,11 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## Table of contents
 
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Author]
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Author]
 
 ### Screenshot
 
