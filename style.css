@@ -162,11 +162,6 @@ body {
         padding: 1.25rem 5rem;
     }
 
-    .hero__cta:hover {
-        background-color: var(--primary-magenta);
-        color: #ffffff;
-    }
-
     .socials {
         justify-content: flex-end;
     }
@@ -177,6 +172,14 @@ body {
         padding: 0.75rem;
     }
 
+}
+
+@media (hover:hover) and (pointer:fine) {
+       .hero__cta:hover {
+        background-color: var(--primary-magenta);
+        color: #ffffff;
+    }
+    
     .socials__item svg:hover {
         color: var(--primary-magenta);
         border-color: var(--primary-magenta);
